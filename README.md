@@ -15,7 +15,7 @@ It stipulates that an environment where participants bid openly against one anot
 6. Minimum increment
 
 # Key aspects for deploying Bidding function() :
-1 .Initially initiate the function bid()
+1. Initially initiate the function bid()
 2. A bid must be done before the auction ends
 3. It must be higher than the reserved price
 4. It must be higher than the previous bid price
