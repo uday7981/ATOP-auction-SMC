@@ -2,7 +2,7 @@ import uuid
 import logging
 import time
 
-__author__ = "UdayKiran and  Praveen"
+__author__ = "UdayKiran and Praveen"
 
 logging.getLogger().setLevel(logging.INFO)
 
